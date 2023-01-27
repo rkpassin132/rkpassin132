@@ -3,11 +3,10 @@
 
 
 [<img height="200" align="right" alt="header-image" src="banner.gif" />](#)
-``` A passionate Backend Developer ```  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-kumar-392a17196)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rkpassin132)
 
-I am a B.tech (Computer Science Engineer) student and a Website & Mobile app developer. I have experience in front-end development using ``HTML/CSS, JavaScript, React, and React Native`` and back-end development using ``PHP, Laravel, Node.js, SQL, and MongoDB``. Worked on solo projects as well as with a team.
+I am a B.tech (Computer Science Engineer) student and a Website & Mobile app developer. I have experience in ``front-end development`` using HTML/CSS, JavaScript, React, and React Native and ``back-end development`` using PHP, Laravel, Node.js, SQL, and MongoDB. Worked on solo projects as well as with a team.
 I am passionate about working on PHP and MERN Stack development. Eager to work on challenging projects. 
 <br />
 
@@ -44,5 +43,5 @@ I am passionate about working on PHP and MERN Stack development. Eager to work o
 <br/>
 
 ## Github Stats
-<img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=rkpassin132&show_icons=true&locale=en" />
-<img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=rkpassin132&mode=weekly)](https://git.io/streak-stats" />
+<img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=rkpassin132&show_icons=true&locale=en" /> 
+<img align="left" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=rkpassin132&mode=weekly)](https://git.io/streak-stats" />

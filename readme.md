@@ -1,6 +1,7 @@
 ## Hi, I'm Rahul kumar 👋 [Resume](https://rkpassin132.github.io/) 
 
 [<img height="200" align="right" alt="header-image" src="banner.gif" />](#)
+![](https://komarev.com/ghpvc/?username=rkpassin132)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-kumar-392a17196)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rkpassin132)
 
